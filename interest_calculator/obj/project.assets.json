@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lprab\\Desktop\\JCI INTERN\\interest_calculator\\interest_calculator.csproj",
+      "projectUniqueName": "C:\\Users\\lprab\\Desktop\\JCI INTERN\\Testing_Azure_WEB_API\\interest_calculator\\interest_calculator.csproj",
       "projectName": "interest_calculator",
-      "projectPath": "C:\\Users\\lprab\\Desktop\\JCI INTERN\\interest_calculator\\interest_calculator.csproj",
+      "projectPath": "C:\\Users\\lprab\\Desktop\\JCI INTERN\\Testing_Azure_WEB_API\\interest_calculator\\interest_calculator.csproj",
       "packagesPath": "C:\\Users\\lprab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lprab\\Desktop\\JCI INTERN\\interest_calculator\\obj\\",
+      "outputPath": "C:\\Users\\lprab\\Desktop\\JCI INTERN\\Testing_Azure_WEB_API\\interest_calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lprab\\AppData\\Roaming\\NuGet\\NuGet.Config",
